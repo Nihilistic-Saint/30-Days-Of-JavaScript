@@ -18,3 +18,9 @@ const PI = 3.14              // geometrical constant
 let name = 'Asabeneh',     //name of a person
   job = 'teacher',
   live = 'Finland'
+
+//4. Create a variable.js file and declare variables and assign string, boolean, undefined and null data types
+const myName = "Nikolas"
+let isAlive = true
+let skillLevel = undefined
+const potential = null
